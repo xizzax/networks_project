@@ -31,12 +31,3 @@ To get started with the Networks project, follow these steps:
 8. Access the assigned IP address of the board through a web browser.
 9. Use the web interface to control the relay connected to the breadboard.
 
-## Contributions
-
-This project was a collaborative effort between two team members. Each member contributed to various aspects of the project, including hardware setup, software development, and testing.
-
-## Conclusion
-
-The Networks project demonstrates the implementation of a home automation solution using the NodeMCU ESP8266 board as a web server to control a relay. By following the provided instructions, users can set up the project and utilize the web interface to remotely control the relay connected to the breadboard.
-
-For more information or inquiries, please contact the project team.
